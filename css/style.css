@@ -5,17 +5,17 @@
 }
 .content {
 	width: 100%;
-	height: 88%;
+	height: 100%;
 }
 .content_left {
 	width: 25%;
-	height: 100%;
+	height: 90%;
 	float: left;
 	background : #4887F1;
 }
 .content_right {
 	width: 75%;
-	height: 100%;
+	height: 90%;
 	float: right;
 }
 .first {
@@ -46,7 +46,7 @@
 }
 .footer {
 	width: 100%;
-	height: 12%;
+	height: 10%;
 	background : #7FE22E;
 	float: left;
 }
