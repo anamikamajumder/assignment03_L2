@@ -9,13 +9,13 @@
 }
 .content_left {
 	width: 25%;
-	height: 90%;
+	height: 100%;
 	float: left;
 	background : #4887F1;
 }
 .content_right {
 	width: 75%;
-	height: 90%;
+	height: 100%;
 	float: right;
 }
 .first {
